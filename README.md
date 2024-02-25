@@ -8,7 +8,8 @@ nano auto_update.sh
 
 ```
 In auto_update.sh file me need to write 
-![Screenshot from 2024-02-25 14-26-11](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/27a1a549-ebfb-4c88-9d03-3f379802e851)
+file:///home/none/Pictures/Screenshots/Screenshot%20from%202024-02-25%2014-30-41.png
+
 
 If you want you can create log file and after update the result will apear in log file.
 
@@ -35,7 +36,8 @@ crontab -e
 
 (ed. 30 20 * * * /bin/bash /home/kali/auto_up.sh)
 ```
-![Screenshot from 2024-02-25 14-22-38](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/d73fc582-3c0c-4d63-95a6-36115e0e9df0)
+![Screenshot from 2024-02-25 14-31-27](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/472412d6-9037-4cc6-85d1-b3c414bea301)
+
 
 It will work every day at 20:30.
 
