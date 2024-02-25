@@ -8,7 +8,9 @@ nano auto_update.sh
 
 ```
 In auto_update.sh file me need to write 
-file:///home/none/Pictures/Screenshots/Screenshot%20from%202024-02-25%2014-30-41.png
+
+![Screenshot from 2024-02-25 14-30-41](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/5379096f-e97f-43ce-8474-233d59ec992c)
+
 
 
 If you want you can create log file and after update the result will apear in log file.
