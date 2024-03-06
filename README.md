@@ -9,10 +9,6 @@ nano auto_update.sh
 ```
 In auto_update.sh file me need to write 
 
-![Screenshot from 2024-02-25 14-30-41](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/5379096f-e97f-43ce-8474-233d59ec992c)
-
-
-
 If you want you can create log file and after update the result will apear in log file.
 
 ```
