@@ -34,7 +34,6 @@ crontab -e
 
 (ed. 30 20 * * * /bin/bash /home/kali/auto_up.sh)
 ```
-![Screenshot from 2024-02-25 14-31-27](https://github.com/arman-0201/Auto-Update-linux-system/assets/145873155/472412d6-9037-4cc6-85d1-b3c414bea301)
 
 
 It will work every day at 20:30.
